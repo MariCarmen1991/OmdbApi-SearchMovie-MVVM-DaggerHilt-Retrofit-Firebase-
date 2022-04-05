@@ -31,6 +31,7 @@ In this application I have used OMDb API
 - Coroutines
 
 ## Autor
-Mari Carmen <mcDev>
+Mari Carmen © < mcDev >
 
+<div align="left"><img width="100px" src="https://github.com/MariCarmen1991/Assets/blob/master/app/src/main/res/drawable/mcImage1.png"/ style="transform:rotate(180deg);" >  </div>
 
