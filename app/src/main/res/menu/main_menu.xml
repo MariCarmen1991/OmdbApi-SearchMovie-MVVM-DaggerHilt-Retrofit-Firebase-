@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/search_text"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+    <item
+        android:id="@+id/logOut"
+        android:title="@string/menu_item1"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Saved"
+        android:title="@string/menu_item2"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/menu_item3"
+        app:showAsAction="ifRoom|collapseActionView" />
+</menu>

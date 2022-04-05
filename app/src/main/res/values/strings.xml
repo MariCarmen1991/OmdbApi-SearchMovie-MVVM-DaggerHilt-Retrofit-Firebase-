@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="tab_1">Sign In</string>
+    <string name="tab_2">Register</string>
+    <string name="tab_3">Create Your Account</string>
+    <string name="check_text">Keep user logged in </string>
+    <string name="menu_item1">Log Out</string>
+    <string name="menu_item2">Saved</string>
+    <string name="menu_item3">Profile</string>
+
+
+    <string name="auth_sign_button">Sign In</string>
+    <string name="auth_name_box">Your Name</string>
+    <string name="auth_email_text">Your E-mail</string>
+    <string name="auth_password_text">Your PassWord</string>
+    <string name="auth_message_text2">Sign Up </string>
+
+
+    <string name="text_sign_welcome">Welcome!</string>
+
+    <string name="searchappbar">SearchAppBar</string>
+    <string name="search_text">Search</string>
+
+    <string name="Name">Name</string>
+    <string name="mail">Email</string>
+
+    <string-array name="actorsList">
+        <item>Angelina</item>
+        <item>Brad</item>
+
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+</resources>
