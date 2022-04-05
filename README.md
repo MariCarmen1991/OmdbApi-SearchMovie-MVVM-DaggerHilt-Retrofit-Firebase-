@@ -30,7 +30,7 @@ In this application I have used OMDb API
 - Dagger Hilt
 - Coroutines
 
-##Autor
+## Autor
 Mari Carmen <mcDev>
 
 
