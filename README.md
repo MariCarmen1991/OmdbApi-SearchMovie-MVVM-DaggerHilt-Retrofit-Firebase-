@@ -23,5 +23,11 @@ Simple app to fetch list of movies using MVVM, dependency injection and firebase
 In this application I have used OMDb API 
 - https://www.omdbapi.com/
 
+# Used in this project
+- ViewModel
+- LifeData
+- Retrofit2
+- Dagger Hilt
+- Coroutines
 
 
